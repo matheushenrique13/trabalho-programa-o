@@ -1,11 +1,6 @@
-margin: 0;
-padding: 0;
-
-}
-
 .cabecalho {
     background-color: #000000;
-    color: hotpink;
+    color: maroon;
     display: flex;
     justify-content: space-around;
     padding: 5px;
@@ -21,4 +16,12 @@ padding: 0;
 
 .cabecalho-imagem {
     width: 10%;
+}
+
+.informacao {
+    background-color: firebrick;
+}
+
+.precos {
+    background-color: lightblue;
 }
